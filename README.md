@@ -1,5 +1,6 @@
 # 5.VERIFICATION-OF-NORTON-S-THEOREM
-
+**NAME : ASHMIYA.R**
+**REFRENCE NUMBER :25001337**
 **AIM:**
 
 To verify Norton’s theorem practically and theoretically for the given DC circuit.
@@ -23,21 +24,30 @@ It is the short-circuit current through the load terminals. i.e., IN = Isc
 Norton’s Resistance, RN:It is the look-back resistance across the load terminals when all the sources are replaced by their internal resistances. An ideal voltage source is replaced by short- circuiting as its internal resistance is zero. An ideal current source is replaced by open- circuiting as its internal resistance is infinity.
  
 **CIRCUIT DIAGRAM: VERIFICATION OF NORTON’S THEOREM**
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/432f8370-249f-40d0-b96e-186091e001d3" />
+
 
 **To measure IL**
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/c2cd9ec2-77d0-460e-bd29-38a15bd08128" />
+
 
 
 **To measure RTh or RN**
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/f39eeab0-df6d-4450-ba00-81b1490722f5" />
 
 
 
 **To measure IN or Isc**
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/66007eca-ccc7-44d1-a53a-f9a9fd7331ee" />
+
 
  
 **Thevenin’s equivalent circuit**
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/01ee56c3-d21b-456b-90b9-2a0db9f1bf64" />
 
 
 **Norton’s equivalent circuit**
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/d27c6da6-bd0f-473e-9164-e9fa606bd2c7" />
 
 
 **PROCEDURE:**
@@ -71,11 +81,15 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 12.	Theoretically verify the Norton’s theorem.
 
 **TABULAR COLUMN: 1**
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/283248c4-fb0a-415d-8475-1da07cd1b2d9" />
+
 To measure I L
 
 Vi (volts)	IL (amps)
 
 **TABULAR COLUMN:2**
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/26193a5f-b60c-4765-954c-c7cc19c7a7f9" />
+
 
 To measure RTh or RN
 
@@ -83,12 +97,18 @@ Vi (volts)	RTh (Ω)
 
 
 **TABULAR COLUMN:3**
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/9f5de35b-b50f-4a47-bb6b-0042f3db4076" />
+
 
 To measure IN or Isc
 
 Vi (volts)	IN (amps)
 	
 **MODEL CALCULATION:**
+<img width="937" height="1431" alt="image" src="https://github.com/user-attachments/assets/4ac5d88c-9530-440c-81cd-3d27dfadca43" />
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/70c47aee-6a06-4a1d-ab13-3bf9034fa9be" />
+
+
 
 Practical value of IL (from tabulation 1) =2.3mA
 
@@ -97,7 +117,9 @@ Practical value of IL (from tabulation 1) =2.3mA
 IL = IN * RN / ( RN+ RL ) = 2.43mA
 
 Theoretical calculation of IL ,IN and RTh(RN) for the given circuit:
- 
+ ** MARKS SPLIT UP:**
+ <img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/7d0d9bbf-a230-4678-bedc-bed12204f328" />
+
 
 
 **RESULT:**

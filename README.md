@@ -24,7 +24,7 @@ It is the short-circuit current through the load terminals. i.e., IN = Isc
 Norton’s Resistance, RN:It is the look-back resistance across the load terminals when all the sources are replaced by their internal resistances. An ideal voltage source is replaced by short- circuiting as its internal resistance is zero. An ideal current source is replaced by open- circuiting as its internal resistance is infinity.
  
 **CIRCUIT DIAGRAM: VERIFICATION OF NORTON’S THEOREM**
-<img width="1152" height="1077" alt="image" src="https://github.com/user-attachments/assets/a3bb4e96-693c-469d-943f-090cc85f75b8" />
+<img width="751" height="800" alt="image" src="https://github.com/user-attachments/assets/12ebf3f8-754b-487b-803c-2f751af6d092" />
 
 
 **To measure IL**
@@ -74,14 +74,15 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 12.	Theoretically verify the Norton’s theorem.
 
 **TABULAR COLUMN: 1**
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/66c0c7ed-7236-4fad-90f9-1aabb95e73aa" />
+<img width="843" height="786" alt="image" src="https://github.com/user-attachments/assets/4e2eb203-9fcb-407e-a59b-0be2d33ad9a4" />
 
-To measure I L
 
 Vi (volts)	IL (amps)
 
 **TABULAR COLUMN:2**
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/36438306-a0f1-41dd-852a-43455d7df4b7" />
+<img width="843" height="786" alt="image" src="https://github.com/user-attachments/assets/ebb606e1-8c67-417f-a65a-2999b2cd4227" />
+
+
 
 
 To measure RTh or RN
@@ -90,7 +91,7 @@ Vi (volts)	RTh (Ω)
 
 
 **TABULAR COLUMN:3**
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/65d626fc-2aeb-45ee-b021-7e2f5c0c0b22" />
+<img width="843" height="786" alt="image" src="https://github.com/user-attachments/assets/f57eed40-dd22-47c7-9102-324da6c87bf3" />
 
 
 To measure IN or Isc
@@ -98,7 +99,7 @@ To measure IN or Isc
 Vi (volts)	IN (amps)
 	
 **MODEL CALCULATION:**
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/4e6b9b9f-0af9-461f-90cd-e61f70005449" />
+<img width="957" height="708" alt="image" src="https://github.com/user-attachments/assets/63d2d4a1-7a07-4d6d-9567-257e63144639" />
 
 
 Practical value of IL (from tabulation 1) =2.3mA
@@ -109,9 +110,8 @@ IL = IN * RN / ( RN+ RL ) = 2.43mA
 
 Theoretical calculation of IL ,IN and RTh(RN) for the given circuit:
 **MARKS SPLIT UP:**
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/f699d284-2132-4a03-a350-904246fc4d15" />
+<img width="1237" height="988" alt="image" src="https://github.com/user-attachments/assets/108dbd3c-1faa-4968-b602-a1aa78db3ab9" />
 
- 
 
 
 **RESULT:**
